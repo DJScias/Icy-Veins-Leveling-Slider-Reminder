@@ -16,3 +16,7 @@ Userscript that remembers the last selected level on the Icy Veins Leveling Guid
 	* Install the script directly from GitHub by clicking on [this link](https://raw.githubusercontent.com/DJScias/Icy-Veins-Leveling-Slider-Reminder/master/icy-veins-leveling-slider-reminder.user.js).
 	* Install the script from [GreasyFork](https://greasyfork.org/en/scripts/404276-icy-veins-leveling-slider-reminder) (GF).
 	* Or, install the script from [OpenUserJS](https://openuserjs.org/scripts/DJScias/Icy_Veins_Leveling_Slider_Reminder) (OU).
+
+## Example GIF
+
+![](example.gif)
