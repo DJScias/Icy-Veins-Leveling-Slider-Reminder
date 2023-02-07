@@ -7,7 +7,7 @@
 // @match        https://www.icy-veins.com/wow/*-leveling-guide
 // @grant        none
 // @require http://code.jquery.com/jquery-3.5.1.min.js
-// @require https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js
+// @require https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.min.js
 // @license GPLv3
 // @homepageURL https://github.com/DJScias/Icy-Veins-Leveling-Slider-Reminder
 // @supportURL https://github.com/DJScias/Icy-Veins-Leveling-Slider-Reminder/issues
